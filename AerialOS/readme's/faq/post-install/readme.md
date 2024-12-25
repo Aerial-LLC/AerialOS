@@ -31,7 +31,7 @@ if you disable services, drivers on Windows by the type of unnecessary functions
 In addition, ServiWin allows you to easily stop, start, restart, pause, and continue service or driver, change the startup type of service or driver (automatic, manual, disabled, boot or system), save the list of services and drivers to file, or view HTML report of installed services/drivers in your default browser.
 
 - Alt Tab
-There are from vin11 and vin7 (I don't see the point of changing)
+There are from win11 and win7 (I don't see the point of changing)
 
 - CRU **FOR ADVANCED USERS ONLY**
 you can change the resolution but, you can break the functionality of the monitor e.g. hertzec, resolution, etc.
