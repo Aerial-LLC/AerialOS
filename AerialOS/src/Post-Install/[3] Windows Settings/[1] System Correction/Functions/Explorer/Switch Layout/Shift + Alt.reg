@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Keyboard Layout\Toggle]
+"Hotkey"="1"
+"Language Hotkey"="1"
