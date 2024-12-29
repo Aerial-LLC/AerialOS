@@ -1,15 +1,12 @@
-## 📌 Information
-
 ![AerialOS](https://github.com/user-attachments/assets/1d3ee0a5-5f65-4f77-9fa8-724ba5f88206)
 
 #### 🌐 Change language
-*[China](https://github.com/Delusion-LLC/DelusionOS/blob/main/README-ZH.md)*
+*[China](https://github.com/Delusion-LLC/DelusionOS/blob/main/README-ZH.md)*,
 *[Russian](https://github.com/Delusion-LLC/DelusionOS/blob/main/README-RU.md)*
 
 ---
 
 ## Supported Builds:
-<!-- - Windows 11 24H2 `26100` -->
 - Windows 11 23H2 `22631`
 
 ## Unsupported List:
@@ -19,7 +16,7 @@
 - Speech recognition
 - Windows Backup/Restore Points
 - Windows Sandbox
-- Windows Autopilot <!-- Recall -->
+- Windows Autopilot / Recall
 - Modem
 - Xbox
 - Hyper-V
@@ -37,8 +34,8 @@
 [Imribiy](https://twitter.com/imribiy),
 [TenForums](https://www.tenforums.com/),
 [Timecard](https://github.com/djdallmann/GamingPCSetup),
-[clqwnless](https://github.com/clqwnless),
-[couwthynokap](https://github.com/couwthynokap),
+[clqwnless (partner)](https://github.com/clqwnless),
+[couwthynokap (sponsor)](https://github.com/couwthynokap),
 [hickerdicker](https://github.com/hickerdicker),
 [NTLite Team](https://www.ntlite.com/community/index.php),
 [Spddl](https://github.com/spddl), and etc.
@@ -47,7 +44,7 @@
 - [🌎 Website](https://aerialos.vercel.app/)
 - [🤖 Discord](https://dsc.gg/aerialos/)
 - [✉️ Telegram](https://t.me/+_AGse0FWWldlZTZi)
-- [🐤 X (Twitter)](https://x.com/e1uen_/)
+- [🐤 X (Twitter)](https://x.com/e1uen67434/)
 - [💸 donation for support project](https://www.donationalerts.com/r/AERIAL_LLC)
 
 <a href="https://star-history.com/#Aerial-LLC/AerialOS&Date">
