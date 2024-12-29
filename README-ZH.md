@@ -1,11 +1,8 @@
-## 📌 訊息
-
 ![AerialOS](https://github.com/user-attachments/assets/1d3ee0a5-5f65-4f77-9fa8-724ba5f88206)
 
 ---
 
 ## 支援的版本：
-<!-- - Windows 11 24H2 `26100` -->
 - Windows 11 23H2 `22631`
 
 ## 不支援的清單：
@@ -15,15 +12,17 @@
 - Windows 防禦者
 - Windows 備份/還原點
 - Windows 沙箱
-- Windows 自動駕駛儀 <!-- 召回 -->
+- Windows 自動駕駛儀 / Recall
 - HyperV
 - Modem
 - Xbox
-- 通知
+- Hyper-V
+- Notifications
 - NFC/POS 設備
 - 科塔娜
 - Windows 更新
-#### 其他不需要公開宣傳的元件
+- Windows 恢复
+#### 不需要普遍宣传的其他组成部分
 
 ## ©️ 致謝
 [Bored](https://twitter.com/Bra1nlet),
@@ -33,8 +32,8 @@
 [Imribiy](https://twitter.com/imribiy),
 [TenForums](https://www.tenforums.com/),
 [Timecard](https://github.com/djdallmann/GamingPCSetup),
-[clqwnless](https://github.com/clqwnless),
-[couwthynokap](https://github.com/couwthynokap),
+[clqwnless (合作伙伴)](https://github.com/clqwnless),
+[couwthynokap (提案国)](https://github.com/couwthynokap),
 [hickerdicker](https://github.com/hickerdicker),
 [NTLite Team](https://www.ntlite.com/community/index.php),
 [Spddl](https://github.com/spddl), 等等。
@@ -43,7 +42,7 @@
 - [🌎 網站](https://aerialos.vercel.app/)
 - [🤖 不和諧](https://dsc.gg/aerialos/)
 - [✉️電報](https://t.me/+_AGse0FWWldlZTZi)
-- [🐤 X (嘰嘰喳喳)](https://x.com/e1uen_/)
+- [🐤 X (嘰嘰喳喳)](https://x.com/e1uen67434/)
 
 <a href="https://star-history.com/#Aerial-LLC/AerialOS&Date">
  <picture>
