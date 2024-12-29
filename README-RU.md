@@ -1,5 +1,3 @@
-## 📌 Информация
-
 ![AerialOS](https://github.com/user-attachments/assets/1d3ee0a5-5f65-4f77-9fa8-724ba5f88206)
 
 ---
@@ -23,7 +21,7 @@
 - NFC/POS устройства
 - Cortana
 - Обновления Windows
-#### Другие компоненты, которые не требуют всеобщей огласки
+#### Другие компоненты, не требующие широкой огласки
 
 ## ©️ Благодарность
 [Bored](https://twitter.com/Bra1nlet),
@@ -33,8 +31,8 @@
 [Imribiy](https://twitter.com/imribiy),
 [TenForums](https://www.tenforums.com/),
 [Timecard](https://github.com/djdallmann/GamingPCSetup),
-[clqwnless](https://github.com/clqwnless),
-[couwthynokap](https://github.com/couwthynokap),
+[clqwnless (партнер)](https://github.com/clqwnless),
+[couwthynokap (спонсор)](https://github.com/couwthynokap),
 [hickerdicker](https://github.com/hickerdicker),
 [NTLite Team](https://www.ntlite.com/community/index.php),
 [Spddl](https://github.com/spddl), и т.д
@@ -43,7 +41,7 @@
 - [🌎 Веб-сайт](https://aerialos.vercel.app/)
 - [🤖 Discord](https://dsc.gg/aerialos/)
 - [✉️ Telegram](https://t.me/+_AGse0FWWldlZTZi)
-- [🐤 X (Twitter)](https://x.com/e1uen_/)
+- [🐤 X (Twitter)](https://x.com/e1uen67434/)
 
 <a href="https://star-history.com/#Aerial-LLC/AerialOS&Date">
  <picture>
