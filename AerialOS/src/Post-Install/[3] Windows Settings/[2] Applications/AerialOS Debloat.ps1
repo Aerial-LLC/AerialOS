@@ -18,7 +18,7 @@ $DataGridView.AutoSizeColumnsMode = [System.Windows.Forms.DataGridViewAutoSizeCo
 $DataGridView.ColumnHeadersHeightSizeMode = [System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode]::AutoSize
 $DataGridView.SelectionMode = [System.Windows.Forms.DataGridViewSelectionMode]::FullRowSelect
 $DataGridView.MultiSelect = $true
-$DataGridView.BackgroundColor = 'dark'
+$DataGridView.BackgroundColor = 'White'
 $DataGridView.AllowUserToAddRows = $false
 
 # Add Columns to DataGridView
