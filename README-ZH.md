@@ -42,7 +42,7 @@
 - [🌎 網站](https://aerialos.vercel.app/)
 - [🤖 不和諧](https://dsc.gg/aerialos/)
 - [✉️電報](https://t.me/+_AGse0FWWldlZTZi)
-- [🐤 X (嘰嘰喳喳)](https://x.com/e1uen67434/)
+- [🐤 Reddit](https://www.reddit.com/user/e1uen/)
 
 <a href="https://star-history.com/#Aerial-LLC/AerialOS&Date">
  <picture>
