@@ -44,7 +44,7 @@
 - [🌎 Website](https://aerialos.vercel.app/)
 - [🤖 Discord](https://dsc.gg/aerialos/)
 - [✉️ Telegram](https://t.me/+_AGse0FWWldlZTZi)
-- [🐤 X (Twitter)](https://x.com/e1uen67434/)
+- [🐤 Reddit](https://www.reddit.com/user/e1uen/)
 - [💸 donation for support project](https://www.donationalerts.com/r/AERIAL_LLC)
 
 <a href="https://star-history.com/#Aerial-LLC/AerialOS&Date">
