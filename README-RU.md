@@ -6,22 +6,25 @@
 - Windows 11 23H2 `22631`
 
 ## Неподдерживаемый список:
-- Установите образ с помощью [setup.exe] / Инструмент создания мультимедийных файлов (Rufus / Ventoy или другие утилиты развертывания).
-- Bitlocker Drive Encryption
-- Windows To Go
-- Распознавание речи
-- Точки резервного копирования/восстановления Windows
-- Windows Sandbox
-- Windows Autopilot / Recall
-- Hyper-V
-- Модем
-- Xbox
-- Уведомления
-- Microsoft Store
-- NFC/POS устройства
-- Cortana
-- Обновления Windows
-#### Другие компоненты, не требующие широкой огласки
+> - Установите образ с помощью [setup.exe] / Инструмент создания мультимедийных файлов (Rufus / Ventoy или другие утилиты развертывания).
+> - Bitlocker Drive Encryption
+> - Speech recognition
+> - Windows To Go
+> - Windows Defender
+> - Windows Autopilot / Recall
+> - Windows Sandbox
+> - Windows Backup / Restore Points
+> - Windows Help
+> - Xbox
+> - The Get Started / Windows Backup apps
+> - Telephony
+> - Hyper-V
+> - NFC/POS devices
+> - Notifications
+> - Onedrive
+> - Cortana
+> - Windows update
+> - Windows recovery
 
 ## ©️ Благодарность
 [Bored](https://twitter.com/Bra1nlet),
