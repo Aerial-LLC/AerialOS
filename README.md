@@ -10,21 +10,25 @@
 - Windows 11 23H2 `22631`
 
 ## Unsupported List:
-- Install the image via "setup.exe" / Media Creation Tool (useless Rufus / Ventoy or other deployment utilities).
-- Bitlocker Drive Encryption
-- Windows To Go
-- Speech recognition
-- Windows Backup/Restore Points
-- Windows Sandbox
-- Windows Autopilot / Recall
-- Modem
-- Xbox
-- Hyper-V
-- Notifications
-- NFC/POS devices
-- Cortana
-- Windows update
-#### Other components that do not require general publicity
+> - Install the image via "setup.exe" / Media Creation Tool (useless Rufus / Ventoy or other deployment utilities).
+> - Bitlocker Drive Encryption
+> - Speech recognition
+> - Windows To Go
+> - Windows Defender
+> - Windows Autopilot / Recall
+> - Windows Sandbox
+> - Windows Backup / Restore Points
+> - Windows Help
+> - Xbox
+> - The Get Started / Windows Backup apps
+> - Telephony
+> - Hyper-V
+> - NFC/POS devices
+> - Notifications
+> - Onedrive
+> - Cortana
+> - Windows update
+> - Windows recovery
 
 ## ©️ Acknowledgments
 [Bored](https://twitter.com/Bra1nlet),
