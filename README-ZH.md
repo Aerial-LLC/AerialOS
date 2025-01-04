@@ -6,23 +6,24 @@
 - Windows 11 23H2 `22631`
 
 ## 不支援的清單：
-- 透過 [setup.exe] /媒體建立工具（無用的Rufus/Ventoy或其他部署實用程式）安裝映像。
-- Bitlocker 磁碟機加密
-- 語音識別
-- Windows 防禦者
-- Windows 備份/還原點
-- Windows 沙箱
-- Windows 自動駕駛儀 / Recall
-- HyperV
-- Modem
-- Xbox
-- Hyper-V
-- Notifications
-- NFC/POS 設備
-- 科塔娜
-- Windows 更新
-- Windows 恢复
-#### 不需要普遍宣传的其他组成部分
+> - 透過 [setup.exe] /媒體建立工具（無用的Rufus/Ventoy或其他部署實用程式）安裝映像。
+> - Bitlocker 磁碟機加密
+> - Speech recognition
+> - Windows 防禦者
+> - Windows 備份/還原點
+> - Windows 沙箱
+> - Windows 自動駕駛儀 / Recall
+> - Windows 備份 / 還原點
+> - Windows 說明
+> - Xbox
+> - Hyper-V
+> - Notifications
+> - NFC/POS 設備
+> - Telephony
+> - Onedrive
+> - 科塔娜
+> - Windows 更新
+> - Windows 恢复
 
 ## ©️ 致謝
 [Bored](https://twitter.com/Bra1nlet),
