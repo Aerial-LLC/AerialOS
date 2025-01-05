@@ -1,5 +1,9 @@
 @echo off
+:: open please .bat in NSudo
 
-"%windir%\NSudo.exe" -U:S -P:E cmd /c ren "C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exee" "ShellExperienceHost.exe"
+cd "%windir%\SystemApps\ShellExperienceHost_cw5n1h2txyewy"
+takeown /f ShellExperienceHost.exee
+icacls ShellExperienceHost.exee /grant Administrators:(F)
+rename ShellExperienceHost.exee ShellExperienceHost.exe
 
 exit
