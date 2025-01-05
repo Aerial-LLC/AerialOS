@@ -1,7 +1,9 @@
 @echo off
+:: open please .bat in NSudo
 
-taskkill /F /IM Runtimebroker.exe
-
-"%windir%\NSudo.exe" -U:S -P:E cmd /c ren "%windir%\System32\smartscreen.exee" "smartscreen.exe"
+cd "%windir%\system32"
+takeown /f Runtimebroker.exee
+icacls Runtimebroker.exee /grant Administrators:(F)
+rename Runtimebroker.exee Runtimebroker.exe
 
 exit
