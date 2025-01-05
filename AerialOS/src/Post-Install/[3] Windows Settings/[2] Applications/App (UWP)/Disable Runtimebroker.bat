@@ -1,7 +1,10 @@
 @echo off
+:: open please .bat in NSudo
 
+cd "%windir%\system32"
 taskkill /F /IM Runtimebroker.exe
-
-"%windir%\NSudo.exe" -U:S -P:E cmd /c ren "C:\Windows\System32\Runtimebroker.exe" "Runtimebroker.exee"
+takeown /f Runtimebroker.exe
+icacls Runtimebroker.exe /grant Administrators:(F)
+rename Runtimebroker.exe Runtimebroker.exee
 
 exit
