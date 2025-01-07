@@ -1,5 +1,4 @@
 @echo off
-:: open please .bat in NSudo
 
 cd "%windir%\system32"
 taskkill /f /im smartscreen.exe
