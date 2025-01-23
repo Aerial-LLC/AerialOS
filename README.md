@@ -46,7 +46,9 @@
 
 ## 🔗 Links
 - [🌎 Website](https://aerialos.vercel.app/)
+- [🌎 Status](https://aerial-llc.betteruptime.com/)
 - [🤖 Discord](https://dsc.gg/aerialos/)
+- [🤖 AerialOS Tweaking](https://dsc.gg/aerialboost/)
 - [✉️ Telegram](https://t.me/+_AGse0FWWldlZTZi)
 - [🐤 Reddit](https://www.reddit.com/user/e1uen/)
 - [💸 donation for support project](https://www.donationalerts.com/r/AERIAL_LLC)
