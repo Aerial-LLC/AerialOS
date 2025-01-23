@@ -41,7 +41,9 @@
 
 ## 🔗 鏈接
 - [🌎 網站](https://aerialos.vercel.app/)
-- [🤖 不和諧](https://dsc.gg/aerialos/)
+- [🌎 狀態](https://aerial-llc.betteruptime.com/)
+- [🤖 Discord](https://dsc.gg/aerialos/)
+- [🤖 AerialOS Tweaking](https://dsc.gg/aerialboost/)
 - [✉️電報](https://t.me/+_AGse0FWWldlZTZi)
 - [🐤 Reddit](https://www.reddit.com/user/e1uen/)
 
