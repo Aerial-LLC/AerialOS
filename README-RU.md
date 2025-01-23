@@ -42,7 +42,9 @@
 
 ## 🔗 Ссылки
 - [🌎 Веб-сайт](https://aerialos.vercel.app/)
+- [🌎 Статус](https://aerial-llc.betteruptime.com/)
 - [🤖 Discord](https://dsc.gg/aerialos/)
+- [🤖 AerialOS Tweaking](https://dsc.gg/aerialboost/)
 - [✉️ Telegram](https://t.me/+_AGse0FWWldlZTZi)
 - [🐤 Reddit](https://www.reddit.com/user/e1uen/)
 
