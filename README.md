@@ -7,7 +7,7 @@
 ---
 
 ## Supported Builds:
-- Windows 11 23H2 `22631`
+- Windows 11 24H2 `26100`
 
 ## Unsupported List:
 > - Install the image via "setup.exe" / Media Creation Tool (useless Rufus / Ventoy or other deployment utilities).
@@ -28,7 +28,6 @@
 > - Onedrive
 > - Cortana
 > - Windows update
-> - Windows recovery
 
 ## ©️ Acknowledgments
 [Bored](https://twitter.com/Bra1nlet),
