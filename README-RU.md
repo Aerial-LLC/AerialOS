@@ -3,7 +3,7 @@
 ---
 
 ## Поддерживаемые сборки:
-- Windows 11 23H2 `22631`
+- Windows 11 24H2 `26100`
 
 ## Неподдерживаемый список:
 > - Установите образ с помощью [setup.exe] / Инструмент создания мультимедийных файлов (Rufus / Ventoy или другие утилиты развертывания).
@@ -24,7 +24,6 @@
 > - Onedrive
 > - Cortana
 > - Windows update
-> - Windows recovery
 
 ## ©️ Благодарность
 [Bored](https://twitter.com/Bra1nlet),
