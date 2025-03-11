@@ -3,7 +3,7 @@
 ---
 
 ## 支援的版本：
-- Windows 11 23H2 `22631`
+- Windows 11 24H2 `26100`
 
 ## 不支援的清單：
 > - 透過 [setup.exe] /媒體建立工具（無用的Rufus/Ventoy或其他部署實用程式）安裝映像。
@@ -23,7 +23,6 @@
 > - Onedrive
 > - 科塔娜
 > - Windows 更新
-> - Windows 恢复
 
 ## ©️ 致謝
 [Bored](https://twitter.com/Bra1nlet),
