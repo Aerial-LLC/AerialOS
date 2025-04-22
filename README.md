@@ -1,7 +1,7 @@
 ![AerialOS](https://cdn.discordapp.com/attachments/1316328694091874304/1360250013980037291/K0RAXIO_FILE.jpg?ex=680846cb&is=6806f54b&hm=e5273fe108140c584605a1c1536626746b17dcd00cc30b3489b3ad3e46b8cafa&)
 
 #### 🌐 Change the language:
-*[Russian](https://github.com/Delusion-LLC/DelusionOS/blob/main/README-RU.md)*
+*[Russian](https://github.com/Aerial-LLC/AerialOS/blob/main/README-RU.md)*
 
 ---
 
