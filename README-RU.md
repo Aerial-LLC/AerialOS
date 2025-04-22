@@ -1,4 +1,4 @@
-![AerialOS](https://github.com/user-attachments/assets/1d3ee0a5-5f65-4f77-9fa8-724ba5f88206)
+![AerialOS](https://cdn.discordapp.com/attachments/1316328694091874304/1360250013980037291/K0RAXIO_FILE.jpg?ex=680846cb&is=6806f54b&hm=e5273fe108140c584605a1c1536626746b17dcd00cc30b3489b3ad3e46b8cafa&)
 
 ---
 
@@ -40,12 +40,11 @@
 [Spddl](https://github.com/spddl), и т.д
 
 ## 🔗 Ссылки
-- [🌎 Веб-сайт](https://aerialos.vercel.app/)
-- [🌎 Статус](https://aerial-llc.betteruptime.com/)
 - [🤖 Discord](https://dsc.gg/aerialos/)
 - [🤖 AerialOS Tweaking](https://dsc.gg/aerialboost/)
 - [✉️ Telegram](https://t.me/+_AGse0FWWldlZTZi)
-- [🐤 Reddit](https://www.reddit.com/user/e1uen/)
+- [🐤 Twitter](https://x.com/kouishouraxio)
+- [💸 Пожертвование для поддержки проект](https://www.donationalerts.com/r/kouishouraxio)
 
 <a href="https://star-history.com/#Aerial-LLC/AerialOS&Date">
  <picture>
