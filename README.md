@@ -44,13 +44,11 @@
 [Spddl](https://github.com/spddl), and etc.
 
 ## 🔗 Links
-- [🌎 Website](https://aerialos.vercel.app/)
-- [🌎 Status](https://aerial-llc.betteruptime.com/)
 - [🤖 Discord](https://dsc.gg/aerialos/)
 - [🤖 AerialOS Tweaking](https://dsc.gg/aerialboost/)
 - [✉️ Telegram](https://t.me/+_AGse0FWWldlZTZi)
-- [🐤 Reddit](https://www.reddit.com/user/e1uen/)
-- [💸 donation for support project](https://www.donationalerts.com/r/AERIAL_LLC)
+- [🐤 Twitter](https://x.com/kouishouraxio)
+- [💸 donation for support project](https://www.donationalerts.com/r/kouishouraxio)
 
 <a href="https://star-history.com/#Aerial-LLC/AerialOS&Date">
  <picture>
