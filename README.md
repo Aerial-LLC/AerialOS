@@ -1,58 +1,38 @@
-![AerialOS](https://cdn.discordapp.com/attachments/1316328694091874304/1360250013980037291/K0RAXIO_FILE.jpg?ex=680846cb&is=6806f54b&hm=e5273fe108140c584605a1c1536626746b17dcd00cc30b3489b3ad3e46b8cafa&)
+<h1 align="center">
+  <img src="./images/AerialOS_Wallpaper_Modern.png" alt="AerialOS"></a>
+</h1>
 
-#### 🌐 Change the language:
-*[Russian](https://github.com/Aerial-LLC/AerialOS/blob/main/README-RU.md)*
+### 🌐 Change the language:
+**[Russian](https://github.com/Aerial-LLC/AerialOS/blob/main/README-RU.md)**
 
----
-
-## Supported Builds:
-- Windows 11 24H2 `26100`
+## ⚖️ Licensing
+The project is distributed on the terms of the license [Attribution-NonCommercial 4.0 International](https://github.com/Aerial-LLC/AerialOS/blob/main/LICENSE)
 
 ## Unsupported List:
-> - Install the image via "setup.exe" / Media Creation Tool (useless Rufus / Ventoy or other deployment utilities).
-> - Bitlocker Drive Encryption
-> - Speech recognition
-> - Windows To Go
-> - Windows Defender
-> - Windows Autopilot / Recall
-> - Windows Sandbox
-> - Windows Backup / Restore Points
-> - Windows Help
-> - Xbox
-> - The Get Started / Windows Backup apps
-> - Telephony
-> - Hyper-V
-> - NFC/POS devices
-> - Notifications
-> - Onedrive
-> - Cortana
-> - Windows update
+**Unbeliant programs and remote components**  
+\- **Bluetooth** (maybe not work), wireless input devices work stably. 
+\- **VPN** (partial support). ** Exitlag **, **Proxy** and **Firewall** work stably.  
+\- **The recovery of the system** in the original state / creation of recovery points (it is recommended to use **Shadow Defender**).  
+\- **Hyper-V / Windows Virtualization** (**VMware** and **VirtualBox** work stably).  
+\- **Windows** updates (installing language packages works stably).
+\- **Redirection of folders** through system policy.
+\- **Fingerprint** and other means of protection of accounts (password setting is stable).
+\- Support **Files Help**
+\- **Special capabilities** (themes, cursors, wallpapers).
+\- **notifications** (partial support).
+\- **Remote access through the console** (**AnyDesk**, **TeamViewer** and **RustDesk**  work stably).
+\- Installation of the image through "**setup.exe**" or **media creation Tool** (it is recommended to use **rufus**, **Ventoy**).
+\- other components that do not require general publicity or require additional testing.
+
+Incredible games and applications
+\- ???
 
 ## ©️ Acknowledgments
-[Bored](https://twitter.com/Bra1nlet),
-[Calypto](https://twitter.com/CaIypto),
-[CatGamerOP](https://twitter.com/CatGamerOP),
-[Chris Titus Tech](https://twitter.com/christitustech),
-[Imribiy](https://twitter.com/imribiy),
-[TenForums](https://www.tenforums.com/),
-[Timecard](https://github.com/djdallmann/GamingPCSetup),
-[clqwnless (partner)](https://github.com/clqwnless),
-[couwthynokap (sponsor)](https://github.com/couwthynokap),
-[hickerdicker](https://github.com/hickerdicker),
-[NTLite Team](https://www.ntlite.com/community/index.php),
-[Spddl](https://github.com/spddl), and etc.
+[Amitxv](https://twitter.com/valleyofd00m), [couwthynokap (sponsor)](https://github.com/couwthynokap), [hickerdicker](https://github.com/hickerdicker), [Bored](https://twitter.com/Bra1nlet), [Calypto](https://twitter.com/CaIypto), LLG (RU), [Chris Titus Tech](https://twitter.com/christitustech), [imribiy](https://x.com/imribiy), KGCT, [CatGamerOP](https://x.com/CatGamerOP), [NTLite Team](https://www.ntlite.com/community/index.php), couleur, spddl, questionable212122, gora, [Timecard](https://github.com/djdallmann/GamingPCSetup), and etc.
 
 ## 🔗 Links
-- [🤖 Discord](https://dsc.gg/aerialos/)
 - [🤖 AerialOS Tweaking](https://dsc.gg/aerialboost/)
+- [🤖 Discord](https://dsc.gg/aerialos/)
 - [✉️ Telegram](https://t.me/+_AGse0FWWldlZTZi)
 - [🐤 Twitter](https://x.com/kouishouraxio)
 - [💸 donation for support project](https://www.donationalerts.com/r/kouishouraxio)
-
-<a href="https://star-history.com/#Aerial-LLC/AerialOS&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Aerial-LLC/AerialOS&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Aerial-LLC/AerialOS&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Aerial-LLC/AerialOS&type=Date" />
- </picture>
-</a>

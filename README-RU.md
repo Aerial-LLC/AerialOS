@@ -1,55 +1,35 @@
-![AerialOS](https://cdn.discordapp.com/attachments/1316328694091874304/1360250013980037291/K0RAXIO_FILE.jpg?ex=680846cb&is=6806f54b&hm=e5273fe108140c584605a1c1536626746b17dcd00cc30b3489b3ad3e46b8cafa&)
+<h1 align="center">
+  <img src="./images/AerialOS_Wallpaper_Modern.png" alt="AerialOS"></a>
+</h1>
 
----
-
-## Поддерживаемые сборки:
-- Windows 11 24H2 `26100`
+## ⚖️ Лицензирование
+Проект распределен на условиях лицензии [Attribution-Noncommercial 4.0 International](https://github.com/Aerial-LLC/AerialOS/blob/main/LICENSE)
 
 ## Неподдерживаемый список:
-> - Установите образ с помощью [setup.exe] / Инструмент создания мультимедийных файлов (Rufus / Ventoy или другие утилиты развертывания).
-> - Bitlocker Drive Encryption
-> - Speech recognition
-> - Windows To Go
-> - Windows Defender
-> - Windows Autopilot / Recall
-> - Windows Sandbox
-> - Windows Backup / Restore Points
-> - Windows Help
-> - Xbox
-> - The Get Started / Windows Backup apps
-> - Telephony
-> - Hyper-V
-> - NFC/POS devices
-> - Notifications
-> - Onedrive
-> - Cortana
-> - Windows update
+**Неоткрытые программы и удаленные компоненты**  
+\- **Bluetooth** (может быть, не работает), беспроводные устройства ввода работают стабильно. 
+\- **VPN** (частичная поддержка). ** exitlag **, ** Прокси ** и ** брандмауэр ** работать стабильно.  
+\- **Восстановление системы** в исходном состоянии / Создание точек восстановления (рекомендуется использовать ** Теневой защитник **).  
+\- **Hyper-V / Windows Virtuization** (**Vmware** и **VirtualBox** работают стабильно).  
+\- **Windows Обновления** (установка языковых пакетов работает стабильно).
+\- **Перенаправление Папок** через системную политику.
+\- **Отпечаток Пальца** и другие средства защиты учетных записей (настройка пароля стабильна).
+\- Поддержка **Files Help**
+\- **Специальные Возможности** (темы, курсоры, обои).
+\- **Уведомления** (частичная поддержка).
+\- **Удаленный доступ через консоли** (**Anydesk**, **TeamViewer** и **Rustdesk** работают стабильно).
+\- Установка изображения через «**setup.exe**» или **media creation Tool** (рекомендуется использовать **Rufus**, **Ventoy**).
+\- Другие компоненты, которые не требуют общей рекламы или требуют дополнительного тестирования.
+
+Невероятные игры и приложения
+\- ???
 
 ## ©️ Благодарность
-[Bored](https://twitter.com/Bra1nlet),
-[Calypto](https://twitter.com/CaIypto),
-[CatGamerOP](https://twitter.com/CatGamerOP),
-[Chris Titus Tech](https://twitter.com/christitustech),
-[Imribiy](https://twitter.com/imribiy),
-[TenForums](https://www.tenforums.com/),
-[Timecard](https://github.com/djdallmann/GamingPCSetup),
-[clqwnless (партнер)](https://github.com/clqwnless),
-[couwthynokap (спонсор)](https://github.com/couwthynokap),
-[hickerdicker](https://github.com/hickerdicker),
-[NTLite Team](https://www.ntlite.com/community/index.php),
-[Spddl](https://github.com/spddl), и т.д
+[Amitxv](https://twitter.com/valleyofd00m), [couwthynokap (спонсор)](https://github.com/couwthynokap), [hickerdicker](https://github.com/hickerdicker), [Bored](https://twitter.com/Bra1nlet), [Calypto](https://twitter.com/CaIypto), LLG (RU), [Chris Titus Tech](https://twitter.com/christitustech), [imribiy](https://x.com/imribiy), KGCT, [CatGamerOP](https://x.com/CatGamerOP), [NTLite Team](https://www.ntlite.com/community/index.php), couleur, spddl, questionable212122, gora, [Timecard](https://github.com/djdallmann/GamingPCSetup), и т.д
 
 ## 🔗 Ссылки
-- [🤖 Discord](https://dsc.gg/aerialos/)
 - [🤖 AerialOS Tweaking](https://dsc.gg/aerialboost/)
+- [🤖 Discord](https://dsc.gg/aerialos/)
 - [✉️ Telegram](https://t.me/+_AGse0FWWldlZTZi)
 - [🐤 Twitter](https://x.com/kouishouraxio)
 - [💸 Пожертвование для поддержки проект](https://www.donationalerts.com/r/kouishouraxio)
-
-<a href="https://star-history.com/#Aerial-LLC/AerialOS&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Aerial-LLC/AerialOS&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Aerial-LLC/AerialOS&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Aerial-LLC/AerialOS&type=Date" />
- </picture>
-</a>
