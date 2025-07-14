@@ -56,7 +56,7 @@ Programs and Games:
 ## 🔗 Links
 
 - [🤖 AerialOS Tweaking](https://dsc.gg/aerialboost/)
-- [🤖 Discord](https://dsc.gg/aerialos/)
+- [🤖 AerialOS Discord](https://dsc.gg/aerialos/)
 - [✉️ Telegram](https://t.me/+_AGse0FWWldlZTZi)
-- [🐤 Twitter](https://x.com/kouishouraxio)
+- [🐤 Twitter](https://x.com/iiikoraxiii)
 - [💸 donation for support project](https://www.donationalerts.com/r/kouishouraxio)
