@@ -2,44 +2,52 @@
   <img src="./images/AerialOS_Wallpaper_Modern.png" alt="AerialOS"></a>
 </h1>
 
-### 🌐 Change the language:
-**[Russian](https://github.com/Aerial-LLC/AerialOS/blob/main/README-RU.md)**
-
 ## ⚖️ Licensing
 The project is distributed on the terms of the license [Attribution-NonCommercial 4.0 International](https://github.com/Aerial-LLC/AerialOS/blob/main/LICENSE)
 
 ## Unsupported List:
 
-**Unbeliant programs and remote components**  
+**Unsupported components and Games**
 
-\- **Bluetooth** (maybe not work), wireless input devices work stably. 
+\- Installation of the image through "**setup.exe**" or **media creation Tool** (it is recommended to use **rufus**, **Ventoy**)
 
-\- **VPN** (partial support). ** Exitlag **, **Proxy** and **Firewall** work stably.  
+\- **BitLocker Drive Encryption**
 
-\- **The recovery of the system** in the original state / creation of recovery points (it is recommended to use **Shadow Defender**).  
+\- **Windows To Go**
 
-\- **Hyper-V / Windows Virtualization** (**VMware** and **VirtualBox** work stably).  
+\- **Windows Defender & Security Center & SmartScreen** (anticheats work stable).
 
-\- **Windows** updates (installing language packages works stably).
+\- **Windows Updates** (Installing language packages works stably).
 
-\- **Redirection of folders** through system policy.
+\- **Windows Backup/Restore Points**
 
-\- **Fingerprint** and other means of protection of accounts (password setting is stable).
+\- **Embedded Mode**
 
-\- Support **Files Help**
+\- **Easy Transfer**
 
-\- **Special capabilities** (themes, cursors, wallpapers).
+\- **NFC/POS devices**
 
-\- **notifications** (partial support).
+\- **Intel APO**
 
-\- **Remote access through the console** (**AnyDesk**, **TeamViewer** and **RustDesk**  work stably).
+\- **Setting Sync**
 
-\- Installation of the image through "**setup.exe**" or **media creation Tool** (it is recommended to use **rufus**, **Ventoy**).
+\- **Telephony**
 
-\- other components that do not require general publicity or require additional testing.
+\- **CEIP**
 
-Incredible games and applications
-\- ???
+\- **Telemetry Client**
+
+\- **Modem**
+
+\- **Windows Error Reporting**
+
+\- **Smart Card**
+
+\- **Some codecs, drivers, components**
+
+Programs and Games:
+\- Intel XTU
+\- Hogwarts Legacy
 
 ## ©️ Acknowledgments
 
