@@ -51,7 +51,7 @@ Programs and Games:
 
 ## ©️ Acknowledgments
 
-[Amitxv](https://twitter.com/valleyofd00m), [couwthynokap (sponsor)](https://github.com/couwthynokap), [hickerdicker](https://github.com/hickerdicker), [Bored](https://twitter.com/Bra1nlet), [Calypto](https://twitter.com/CaIypto), LLG (RU), [Chris Titus Tech](https://twitter.com/christitustech), [imribiy](https://x.com/imribiy), KGCT, [CatGamerOP](https://x.com/CatGamerOP), [NTLite Team](https://www.ntlite.com/community/index.php), couleur, spddl, questionable212122, gora, [Timecard](https://github.com/djdallmann/GamingPCSetup), and etc.
+[Amitxv](https://twitter.com/valleyofd00m), [couwthynokap](https://github.com/couwthynokap), [hickerdicker](https://github.com/hickerdicker), [Bored](https://twitter.com/Bra1nlet), [Calypto](https://twitter.com/CaIypto), LLG (RU), [Chris Titus Tech](https://twitter.com/christitustech), [imribiy](https://x.com/imribiy), KGCT, [CatGamerOP](https://x.com/CatGamerOP), [NTLite Team](https://www.ntlite.com/community/index.php), couleur, spddl, questionable212122, [Timecard](https://github.com/djdallmann/GamingPCSetup), and etc.
 
 ## 🔗 Links
 
