@@ -7,56 +7,35 @@ The project is distributed on the terms of the license [Attribution-NonCommercia
 
 ## Unsupported List:
 
-**Unsupported components and Games**
+- CEIP & Telemetry
+- BitLocker Drive Encryption
+- Windows To Go
+- Windows Defender & Security Center & System Guard & SmartScreen & Guarded Host
+- Windows Hello
+- Windows Backup/Restore Points
+- Embedded Mode
+- Easy Transfer
+- Voice Recognition/Cortana
+- POS devices
+- Telephony
+- Windows Recovery
+- Windows Error Reporting
+- IME (Input Method Editor)
+- Some components
 
-\- Installation of the image through "**setup.exe**" or **media creation Tool** (it is recommended to use **rufus**, **Ventoy**)
+## Last Version AerialOS:
 
-\- **BitLocker Drive Encryption**
-
-\- **Windows To Go**
-
-\- **Windows Defender & Security Center & SmartScreen** (anticheats work stable).
-
-\- **Windows Updates** (Installing language packages works stably).
-
-\- **Windows Backup/Restore Points**
-
-\- **Embedded Mode**
-
-\- **Easy Transfer**
-
-\- **NFC/POS devices**
-
-\- **Intel APO**
-
-\- **Setting Sync**
-
-\- **Telephony**
-
-\- **CEIP**
-
-\- **Telemetry Client**
-
-\- **Modem**
-
-\- **Windows Error Reporting**
-
-\- **Smart Card**
-
-\- **Some codecs, drivers, components**
-
-Programs and Games:
-\- Intel XTU
-\- Hogwarts Legacy
+[VERSION CLICK CHECK](./version.txt)
 
 ## ©️ Acknowledgments
 
-[Amitxv](https://twitter.com/valleyofd00m), [couwthynokap](https://github.com/couwthynokap), [hickerdicker](https://github.com/hickerdicker), [Bored](https://twitter.com/Bra1nlet), [Calypto](https://twitter.com/CaIypto), LLG (RU), [Chris Titus Tech](https://twitter.com/christitustech), [imribiy](https://x.com/imribiy), KGCT, [CatGamerOP](https://x.com/CatGamerOP), [NTLite Team](https://www.ntlite.com/community/index.php), couleur, spddl, questionable212122, [Timecard](https://github.com/djdallmann/GamingPCSetup), and etc.
+[Amitxv](https://twitter.com/valleyofd00m), [hickerdicker](https://github.com/hickerdicker), [Bored](https://twitter.com/Bra1nlet), [Calypto](https://twitter.com/CaIypto), LLG (RU), [Chris Titus Tech](https://twitter.com/christitustech), [imribiy](https://x.com/imribiy), KGCT, [CatGamerOP](https://x.com/CatGamerOP), [NTLite Team](https://www.ntlite.com/community/index.php), couleur, spddl, questionable212122, [Timecard](https://github.com/djdallmann/GamingPCSetup), and etc.
 
 ## 🔗 Links
 
-- [🤖 AerialOS Tweaking](https://dsc.gg/aerialboost/)
-- [🤖 AerialOS Discord](https://dsc.gg/aerialos/)
-- [✉️ Telegram](https://t.me/+V0rWNhUhu18wMzY6)
-- [🐤 Twitter](https://x.com/iiikoraxiii)
-- [💸 donation for support project](https://www.donationalerts.com/r/kouishouraxio)
+- [AerialOS Tweaking](https://canary.discord.com/channels/1225844707733803108/1255818351935098973/1436986909950738482)
+- [AerialOS Discord](https://dsc.gg/aerialos/)
+- [AerialOS WEB](404)
+- [Telegram Group](https://t.me/+V0rWNhUhu18wMzY6)
+- [X (Twitter)](https://x.com/iiikoraxiii)
+- [donation for support project](https://www.donationalerts.com/r/kouishouraxio) , [donation link (alt)](https://new.donatepay.ru/@1392734)
