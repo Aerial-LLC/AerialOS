@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./images/AerialOS_Wallpaper_Modern.png" alt="AerialOS"></a>
+  <img src="./images/AerialOS.jpg" alt="AerialOS"></a>
 </h1>
 
 ## ⚖️ Licensing
@@ -29,13 +29,32 @@ The project is distributed on the terms of the license [Attribution-NonCommercia
 
 ## ©️ Acknowledgments
 
-[Amitxv](https://twitter.com/valleyofd00m), [hickerdicker](https://github.com/hickerdicker), [Bored](https://twitter.com/Bra1nlet), [Calypto](https://twitter.com/CaIypto), LLG (RU), [Chris Titus Tech](https://twitter.com/christitustech), [imribiy](https://x.com/imribiy), KGCT, [CatGamerOP](https://x.com/CatGamerOP), [NTLite Team](https://www.ntlite.com/community/index.php), couleur, spddl, questionable212122, [Timecard](https://github.com/djdallmann/GamingPCSetup), and etc.
+[Amitxv](https://twitter.com/valleyofd00m),
+sepasively,
+hickensa,
+[Bored](https://twitter.com/Bra1nlet),
+[Calypto](https://twitter.com/CaIypto),
+LLG (RU),
+[Chris Titus Tech](https://twitter.com/christitustech),
+[imribiy](https://x.com/imribiy),
+KGCT,
+[CatGamerOP](https://x.com/itsCatGamer),
+[NTLite Team](https://www.ntlite.com/community/index.php),
+couleur,
+spddl,
+questionable212122,
+gosheto,
+[Timecard](https://github.com/djdallmann/GamingPCSetup),
+K3rnelPan1c,
+and etc.
 
 ## 🔗 Links
 
+- [AerialOS WEB](https://aerialos.vercel.app/)
 - [AerialOS Tweaking](https://canary.discord.com/channels/1225844707733803108/1255818351935098973/1436986909950738482)
 - [AerialOS Discord](https://dsc.gg/aerialos/)
-- [AerialOS WEB](404)
-- [Telegram Group](https://t.me/+V0rWNhUhu18wMzY6)
-- [X (Twitter)](https://x.com/iiikoraxiii)
+- [AerialOS YouTube](https://youtube.com/@q777k)
+- [AerialOS Telegram](https://t.me/+V0rWNhUhu18wMzY6)
+- [AerialOS X (Twitter)](https://x.com/q777k)
 - [donation for support project](https://www.donationalerts.com/r/kouishouraxio) , [donation link (alt)](https://new.donatepay.ru/@1392734)
+- Crypto Wallet - bc1qh6xqeaema8lgwzr6870704pnwhv42xaf5jfp0

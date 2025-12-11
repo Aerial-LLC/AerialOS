@@ -1,1 +1,11 @@
-v5.7.7 (latest) [release]
+[RELEASE LATEST]
+v5.7.7
+
+[UNSUPPORTED/OLD]
+v2.0.1
+v2.0.0
+V1.0.7
+V1.0.3
+V1.0.2
+V1.0.1
+V1.0.0
